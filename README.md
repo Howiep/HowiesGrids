@@ -1,2 +1,2 @@
 # HowiesGrids
-Minimalistic Grids
+Minimalistic Grid
